@@ -1,0 +1,53 @@
+.box1 {
+    display: grid;
+    height: 100vh;
+   
+    padding: 10px;
+
+
+    border-bottom: darkblue;
+    border-bottom-style: solid;
+    background-color: turquoise
+    
+}
+
+.box2 {
+    display: grid;
+    place-content: center;
+    text-align: center;
+}
+
+
+h1 {
+    color: white;
+    
+}
+
+.box3 {
+    display: grid;
+    height: 100vh;;
+    border-bottom-style: solid;
+    border-bottom: darkblue;
+    
+}
+
+.box4 {
+    display: grid;
+    border-top: darkblue;
+    border-top-style: solid;
+
+}
+
+.box6 {
+    display: grid;
+    border-top: darkblue;
+    border-top-style: solid;
+}
+
+.footer {
+    display: grid;
+    grid-auto-rows: 1fr;
+    border-bottom-color: darkblue;
+    border-bottom-style: solid;
+    border-bottom: thick;
+}
